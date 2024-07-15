@@ -24,7 +24,9 @@ class functor_cmp {
         特别注意，pred最好用lambda，而不是在类里面定义，因为在main里面 是不好去用类里面定义的pred的
          */
 };
+456
 123
+我全都要
 
 
 #endif //FUNCTOR_CMP_FUNCTOR_CMP_H
