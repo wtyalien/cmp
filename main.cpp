@@ -105,7 +105,7 @@ int main() {
     for (const auto& res : resources) {
         std::cout << res.resource_ << std::endl;
     }
-
+// a test of git push
 
     return 0;
 }
