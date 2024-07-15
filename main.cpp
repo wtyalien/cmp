@@ -106,6 +106,7 @@ int main() {
         std::cout << res.resource_ << std::endl;
     }
 // a test of git push
+//another test of git pull
 
     return 0;
 }
